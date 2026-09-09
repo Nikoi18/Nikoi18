@@ -1,0 +1,8 @@
+# Documentación legal y privada de la empresa
+# (constitución, EIN, operating agreement, contratos...)
+*.pdf
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
