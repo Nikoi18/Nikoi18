@@ -55,6 +55,21 @@ The README is written in Markdown with light HTML (`<div align="center">`, `<p a
 - Activity graph theme: `tokyo-night`, background `#0d1117`, accent `#58a6ff`
 - Language: Spanish
 
+## Profile Settings (outside this repo)
+
+The README is only half of the profile. These values are the approved configuration for
+**Settings -> Public profile** at https://github.com/settings/profile. They cannot be changed from
+this repository (and `gh api -X PATCH user` needs the `user` token scope, which the local token lacks):
+
+| Field | Value |
+|---|---|
+| Name | Nikoidev LLC |
+| Bio | Software a medida para empresas - Web - ERP - Modernizacion de sistemas |
+| Company | Nikoidev LLC |
+| Email | info@nikoidev.com |
+| Location | Remoto - Espana / Venezuela / EE.UU. |
+| Website | https://nikoidev.com |
+
 ## Repository Hygiene
 
 `.gitignore` excludes `*.pdf`: the company's legal documentation (certificate of organization, EIN,
