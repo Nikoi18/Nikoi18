@@ -7,7 +7,7 @@
 **Aplicaciones web de gestión · Integraciones con ERP · Modernización de sistemas legados**
 
 [![Web](https://img.shields.io/badge/nikoidev.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikoidev.com)
-[![Email](https://img.shields.io/badge/Escríbenos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
+[![Email](https://img.shields.io/badge/info%40nikoidev.com-D14836?style=for-the-badge&logoColor=white)](mailto:info@nikoidev.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikoi18)
 
@@ -142,7 +142,7 @@ Cuéntanos qué necesitas resolver. Te respondemos con una valoración honesta d
 
 <div align="center">
 
-[![Escríbenos](https://img.shields.io/badge/Escríbenos-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
+[![Escríbenos](https://img.shields.io/badge/Escr%C3%ADbenos-info%40nikoidev.com-D14836?style=for-the-badge)](mailto:info@nikoidev.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
 [![Web](https://img.shields.io/badge/nikoidev.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikoidev.com)
 
